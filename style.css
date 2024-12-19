@@ -48,16 +48,16 @@ img{
     justify-content: center;
     align-items: center;
     font-size: 2.5rem;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     gap: 5rem;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
 }
 #user-score,#comp-score{
-    font-size: 5rem;
+    font-size: 4.5rem;
     font-family: "Poppins", sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-style: normal;
 }
 
